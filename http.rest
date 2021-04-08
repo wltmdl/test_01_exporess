@@ -5,6 +5,7 @@
 
 ###
 GET http://{{host}}
+
 ###
 POST http://localhost:{{port}} HTTP/1.1
 Content-Type: {{contentType}}
